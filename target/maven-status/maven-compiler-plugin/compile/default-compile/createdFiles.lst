@@ -1,0 +1,11 @@
+Translate\Dictionaries.class
+Exception\LanguageNotFoundException.class
+Translate\Dictionaries$1.class
+Translate\Translator$1.class
+Enum\SingularOrPluralForm.class
+InputWord\Word.class
+Exception\FileProblemException.class
+InputWord\Definition.class
+JSON\JsonWork.class
+Translate\Translator$Res.class
+Translate\Translator.class
